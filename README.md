@@ -35,3 +35,7 @@
 ![Figures/performance_image_level.png](./figures/i_level_l_perform.png)
 
 **이미지 레벨(Image-level) 협착 위치 특정 성능:** MRA 이미지 내 협착 부위의 정확한 위치를 찾아낸 성능 지표입니다.
+
+## 📁 Files
+
+- `train.py` : Training script for image-level classification/localization
