@@ -28,9 +28,13 @@
 
 ## 📈 성능 (Performance)
 
-![Figures/performance_patient_level.png](./figures/p_level_c_perform.png)
+![Figures/voting_table.png](./figures/voting_table.png)
 
-**환자 레벨(Patient-level) 분류 성능:** 환자 전체를 기준으로 협착 유무를 분류한 성능 지표입니다.
+**환자 레벨(Patient-level) soft/hard voting 분류 성능:** 단일 이미지 기준 협착 유무를 분류한 성능 지표입니다.
+
+![Figures/svm_table.png](./figures/svm_table.png)
+
+**환자 레벨(Patient-level) svm 분류 성능:** threshold를 넘는 이미지 개수를 이용하여 svm을 통한 협착 유무 분류 성능 지표입니다.
 
 ![Figures/performance_image_level.png](./figures/i_level_l_perform.png)
 
